@@ -1,7 +1,7 @@
 { 
-    "plugload": 157.8kw,
-    "heatingcooling": 42.24kw,
-    "lighting": 56.60kw,
-    "other": 85.49kw
+    "plugload": "157.8kw",
+    "heatingcooling": "42.24kw",
+    "lighting": "56.60kw",
+    "other": "85.49kw"
     
 }
